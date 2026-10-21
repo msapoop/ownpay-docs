@@ -62,6 +62,10 @@
         "https://x.com/ownpayorg",
         "https://youtube.com/@ownpayorg",
         "https://facebook.com/ownpay.org",
+        "https://github.com/own-pay",
+        "https://www.npmjs.com/package/ownpay-nodejs",
+        "https://marketplace.whmcs.com/product/8845-ownpay-whmcs",
+        "https://github.com/own-pay/OwnPay-Mobile-App",
         "https://facebook.com/groups/ownpay.org"
       ]
     }
@@ -169,7 +173,8 @@
     "docs-url": "https://ownpay.org/docs",
     "mcp-url": "https://ownpay.org/docs/mcp",
     "skills-url": "https://ownpay.org/docs/skill.md",
-    "support-email": "ping@ownpay.org"
+    "support-email": "ping@ownpay.org",
+    "llms-txt": "https://ownpay.org/docs/llms.txt"
   },
   "interaction": {
     "drilldown": true
